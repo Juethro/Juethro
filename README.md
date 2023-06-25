@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Denis M Jethro you can call me Jethro
-- 👀 I’m interested in Data Scientist, Machine Learning, and Business 
-- 🌱 I’m currently learning Data Science in Airlangga University
-- 📫 You can reach me in Instagram @denis_jethro
-
-<!---
-Juethro/Juethro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, My Name is Denis M Jethro you can call me Jethro... I am currently a Data Scientist's student from Airlangga University
+- 👀 I’m interested in Data Scientist, Machine Learning, Data Analyst, Graphics Design, and Web Development. 
+- 🌱 I’m currently working on a web development using Laravel and ReactJS, but sometimes I also take part in Data Analysis and Machine Learning competitions on kaggle
+- 📫 For more information you can approach me via [Linkedin](https://linkedin.com/in/denismjethro)
