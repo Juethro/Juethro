@@ -1,4 +1,4 @@
 - 👋 Hi, My Name is Denis M Jethro you can call me Jethro... I am currently a Data Scientist's student from Airlangga University
 - 👀 I’m interested in Data Scientist, Machine Learning, Data Analyst, Graphics Design, and Web Development. 
-- 🌱 I’m currently working on a web development using Laravel and ReactJS, but sometimes I also take part in Data Analysis and Machine Learning competitions on kaggle
+- 🌱 I’m currently working on a web development using Laravel and ReactJS, but sometimes I also take part in Data Analysis and Machine Learning competitions on [kaggle](https://www.kaggle.com/denismjethro)
 - 📫 For more information you can approach me via [Linkedin](https://linkedin.com/in/denismjethro)
